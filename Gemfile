@@ -13,9 +13,8 @@ gem 'twitter-bootstrap-rails'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
 
-group :development do
-  gem 'thin'
-end
+gem 'thin'
+
 
 group :test do
   gem 'shoulda'
